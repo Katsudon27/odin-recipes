@@ -6,8 +6,9 @@ h1 {
     text-align: center;
 }
 
-#homepage-div {
+#center-div {
     text-align: center;
+    margin-top: 20px;
 }
 
 ul {
@@ -30,4 +31,17 @@ li {
 .link-as-button:hover{
     background-color: #333333;
     color:#EEEEEE;
+}
+
+#recipe-card{
+    text-align: center;
+    background-color: bisque;
+    margin: 10px 10%;
+    padding: 10px 30px;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
 }
