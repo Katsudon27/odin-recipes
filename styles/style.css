@@ -1,3 +1,33 @@
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
+h1 {
+    text-align: center;
+}
+
+#homepage-div {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+    text-align: left;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+.link-as-button {
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 5px 20px;
+}
+
+.link-as-button:hover{
+    background-color: #333333;
+    color:#EEEEEE;
+}
