@@ -1,6 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: beige;
+    background-color: #EFD2B0;
 }
 
 h1 {
@@ -24,19 +24,19 @@ li {
 
 .link-as-button {
     text-decoration: none;
-    background-color: #EEEEEE;
-    color: #333333;
+    background-color: #547792;
+    color: #EEEEEE;
     padding: 5px 20px;
+    border-radius: 5px;
 }
 
 .link-as-button:hover{
-    background-color: #333333;
-    color:#EEEEEE;
+    background-color: #1A3263;
 }
 
 #recipe-card{
     text-align: center;
-    background-color: bisque;
+    background-color: #FFC570;
     border-radius: 20px;
     margin: 0 auto;
     padding: 10px 30px;
