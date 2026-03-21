@@ -43,6 +43,11 @@ li {
     width: 40%;
 }
 
+#recipe-card img{
+    width: 300px;
+    height: auto;
+}
+
 ol {
     display: inline-block;
     text-align: left;
